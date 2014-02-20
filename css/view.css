@@ -1,0 +1,29 @@
+
+div
+{
+	margin:auto;
+	width:50%;
+	position: relative;
+	border:1px solid black;
+	background: #F3F3F7;
+}
+h1{
+
+margin-left: 10px;
+
+}
+h2{
+	margin-left: 10px;
+	font-size: 15px;
+}
+h3{
+	margin-left: 10px;
+}
+p{
+	font-size: 20px;
+	
+	margin-left: 10px;
+}
+p1{
+	margin-left: 10px;
+}
